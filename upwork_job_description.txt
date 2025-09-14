@@ -1,0 +1,141 @@
+🚀 Senior React Developer Needed - Build Modern React Boilerplate from Scratch
+
+Project Overview
+We need a skilled React developer to build a production-ready React boilerplate from scratch. This will be a modern, enterprise-grade frontend application template that can be used as a starting point for future projects. The goal is to create a comprehensive, well-structured boilerplate with authentication, modern UI components, and best practices.
+
+Required Tech Stack
+- ⚡ Vite + React 18 + TypeScript
+- 🎨 Tailwind CSS + Radix UI components
+- 🐻 Zustand + TanStack Query for state management
+- 🔐 JWT Authentication with refresh tokens
+- 🌍 i18next internationalization (EN/ES)
+- 🎭 MSW for API mocking
+- 📝 React Hook Form + Zod validation
+
+What We're Looking For
+
+Required Skills & Experience
+- ✅ 5+ years React/TypeScript experience
+- ✅ Expert-level with modern React patterns (hooks, context, suspense)
+- ✅ Strong Tailwind CSS and component library experience
+- ✅ Experience with state management (Zustand, Redux, or similar)
+- ✅ API integration experience (Axios, React Query)
+- ✅ Authentication systems (JWT, OAuth, etc.)
+- ✅ Responsive design and mobile-first development
+- ✅ Git workflow and code review experience
+
+Preferred Skills
+- 🎯 Radix UI or similar headless component libraries
+- 🎯 Vite build tooling experience
+- 🌍 i18next internationalization
+- 🎯 MSW or API mocking tools
+- 📝 Form handling with validation libraries
+- 🎯 Testing (Jest, React Testing Library)
+
+Project Goals & Deliverables
+
+Phase 1: Project Setup & Core Architecture
+- Set up Vite + React 18 + TypeScript project
+- Configure Tailwind CSS with custom theme
+- Set up absolute imports and path aliases
+- Create project folder structure and organization
+- Configure ESLint and TypeScript strict mode
+
+Phase 2: Authentication System
+- Implement JWT-based authentication (login, register, logout)
+- Create protected routes and route guards
+- Set up automatic token refresh mechanism
+- Build session management system
+- Add email verification flow
+- Implement persistent auth state with Zustand
+
+Phase 3: UI Components & Layout
+- Build comprehensive component library with Radix UI
+- Create responsive layouts (auth, dashboard, public)
+- Implement dark/light theme system
+- Add navigation and sidebar components
+- Build form components with validation
+- Create toast notification system
+
+Phase 4: State Management & API Integration
+- Set up Zustand for global state management
+- Configure TanStack Query for server state
+- Create API client with Axios interceptors
+- Implement MSW for API mocking
+- Add error handling and loading states
+- Set up internationalization (i18next)
+
+Phase 5: Pages & Features
+- Build authentication pages (login, register, verify email)
+- Create dashboard with user management
+- Add profile management page
+- Implement sessions management
+- Add 404 and loading pages
+- Create home page with landing content
+
+Expected Project Structure
+src/
+├── api/           # API client & endpoints
+├── components/    # Reusable UI components
+├── hooks/         # Custom React hooks
+├── pages/         # Route components
+├── providers/     # Context providers
+├── stores/        # Zustand state management
+├── types/         # TypeScript definitions
+└── mocks/         # Mock API handlers
+
+Required Features to Build
+- 🔐 Complete authentication system (login, register, email verification)
+- 🛡️ Protected routes and session management
+- 🎨 Modern UI components with dark/light theme
+- 📱 Responsive design for all devices
+- 🌍 Multi-language support (English/Spanish)
+- 🎭 Mock API for development
+- 📊 Dashboard with user management
+- 🔔 Toast notifications and error handling
+- 🎯 Form validation with Zod
+- 📅 Date utilities and components
+- 🎨 Accessible components with Radix UI
+
+What We Offer
+- 💰 Competitive hourly rate based on experience
+- 🕒 Flexible working hours (timezone-friendly)
+- 🤝 Long-term collaboration opportunity
+- 🎯 Clear project scope and requirements
+- 💬 Regular communication and feedback
+- 🚀 Modern tech stack to work with
+
+Application Requirements
+Please include in your proposal:
+
+1. Portfolio of React/TypeScript projects
+2. Experience with similar tech stacks
+3. Availability and estimated timeline
+4. Hourly rate or project budget
+5. Questions about the project
+
+Sample Questions to Answer
+- Have you worked with Vite + React + TypeScript before?
+- Experience with Radix UI or similar component libraries?
+- Any experience with JWT authentication systems?
+- Familiarity with Zustand or TanStack Query?
+
+Project Timeline
+- Phase 1 (Setup): 1 week
+- Phase 2 (Authentication): 2 weeks
+- Phase 3 (UI Components): 2-3 weeks
+- Phase 4 (State Management): 1-2 weeks
+- Phase 5 (Pages & Features): 2-3 weeks
+- Testing & Documentation: 1 week
+- Total estimated: 9-12 weeks
+
+Budget Range
+$25-75/hour (depending on experience and location)
+
+---
+
+Ready to build a modern, production-ready React boilerplate from scratch? Apply now with your portfolio and let's discuss how you can help create this comprehensive template!
+
+---
+
+This is a great opportunity for a React developer who wants to showcase their skills by building a complete, enterprise-grade application template that will be used as a foundation for future projects.
