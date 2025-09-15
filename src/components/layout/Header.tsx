@@ -146,6 +146,13 @@ export function Header() {
             <ThemeToggle />
           </div>
 
+          {isAuthenticated && isHomePage && (
+            <Button onClick={() => navigate("/dashboard")} className="px-6">
+              {t("home.dashboard")}
+              <ArrowRight className="ml-2 h-4 w-4" />
+            </Button>
+          )}
+
           {isAuthenticated && !isHomePage && (
             <div className="flex items-center gap-4">
               <div className="hidden md:block text-sm">
